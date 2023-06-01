@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115779113353",
+    "project_id": "inspirational-islamic-quotes",
+    "storage_bucket": "inspirational-islamic-quotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115779113353:android:d97fab528a39ecb9149158",
+        "android_client_info": {
+          "package_name": "com.mediatechnopro.iiq1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjlL9cVNF_P92W4Yi8w9hgCDi14EuWNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
